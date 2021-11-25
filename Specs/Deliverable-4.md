@@ -1,4 +1,4 @@
-# Deliverable 4
+# Deliverable 3
 
 This portion of the lab consists of a the functioning CRUD page for creating/editing information in a single database table, supported by services in the BLL.
 
