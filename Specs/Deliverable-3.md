@@ -1,4 +1,4 @@
-# Deliverable 3
+# Deliverable 2
 
 This portion of the lab consists of the functioning Query page and the related BLL services.
 
