@@ -25,11 +25,11 @@ This project is divided into several deliverables, outlined below.  The due date
 -->
 
 
-* [**Deliverable 1:** - 10 %](./Deliverable-2.md) – Due **August 2, 2021**: Start of week 14
+* [**Deliverable 1:** - 10 %](./Deliverable-2.md) – Due **December 3, 2021**: End of week 13
   * Initial solution setup with class libraries and web application including but not limited to: entities setup, database connection, appropriate references and navigation
-* [**Deliverable 2:** - 10 %](./Deliverable-3.md) – Due **August 9, 2021**: Start of week 15
+* [**Deliverable 2:** - 10 %](./Deliverable-3.md) – Due **December 10, 2021**: End of week 14
   * Query page.
-* [**Deliverable 3:** - 10 %](./Deliverable-4.md) – Due **August 13, 2021**: End of week 15
+* [**Deliverable 3:** - 15 %](./Deliverable-4.md) – Due **December 17, 2021**: End of week 15
   * CRUD page.
 
 > Each deliverable part is cumulative, building on previous deliverable parts of the solution. For each deliverable, any and all supporting functionality of previous deliverables must function correctly in order to gain marks for the demonstrated deliverable.
