@@ -6,7 +6,7 @@ This document contains up to 20 distinct scenarios for simple CRUD operations on
 
 ## Lab Scenario Selection
 
-> **May 2021** - Scenarios will be assigned by your instructor.
+> **Sep 2021** - Scenarios will be assigned by your instructor.
 
 ~Before beginning your lab, you must sign up for your scenario and your selection must be approved by your instructor; contact your instructor for details. If you are repeating the course, you **must** select a different scenario than the one you attempted in the previous term.~
 
