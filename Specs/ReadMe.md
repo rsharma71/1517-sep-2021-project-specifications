@@ -13,11 +13,9 @@ Your instructor will provide any additional information on submitting/demonstrat
 
 ## The Deliverables
 
-This project is divided into several deliverables, outlined below. ~~Your instructor may require that you present one or more deliverables **in-class** in order to gain the marks for that deliverable.~~ The due dates for each deliverable are subject to change.
+This project is divided into several deliverables, outlined below.  The due dates for each deliverable are subject to change.
 
 <!--
-* [**Deliverable 1:** - 5 %](./Deliverable-1.md) – Due **Apr 2, 2021**: End of week 12
-  * Project Planning.
 * [**Deliverable 2:** - 5 %](./Deliverable-2.md) – Due **Apr 7, 2021**: Middle of week 13
   * Initial solution setup with class libraries and web application including but not limited to: entities setup, database connection, appropriate references and navigation
 * [**Deliverable 3:** - 5 %](./Deliverable-3.md) – Due **Apr 16, 2021**: End of week 14 
