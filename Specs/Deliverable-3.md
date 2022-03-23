@@ -10,7 +10,7 @@ This portion of the lab consists of the functioning Query page and the related B
 
 On this page, the student must display multiple rows of data in an HTML table. All fields of the displayed entity must be used, unless otherwise specified in your scenario. You must provide appropriate links from this page to the CRUD page for editing related data on this page or adding new data.
 
-You must implement pagination, with the page size being set to 10 to 25 rows per page (as appropriate for your scenario). There is no need to allow the user to select their own page sizing, you can set it to a fixed value.
+You must implement pagination, with the page size being set to 10 to 25 rows per page (as appropriate for your scenario). 
 
 ----
 
