@@ -6,7 +6,7 @@ This portion of the lab consists of setting up the structured solution, document
 
 ## Required Projects
 
-Your solution must be a client-server solution consisting of multiple projects as outlined in the course. *(An actual solution file (`.sln`) is only required if you are developing in VS 2019.)* The Presentation Layer portion is to be an ASP.NET Web Application (**.NET Core** Razor Pages). The BLL, Entity classes and DAL portions of the system are to be placed in a separate class library project.
+Your solution must be a client-server solution consisting of multiple projects as outlined in the course. The Presentation Layer portion is to be an ASP.NET Web Application (**.NET Core** Razor Pages). The BLL, Entity classes and DAL portions of the system are to be placed in a separate class library project.
 
 ## The StarTED Database
 
@@ -24,7 +24,7 @@ There are two pages for the core functionality of this project (described below)
 
 ### Layout and Styling
 
-You are expected to decide upon the styling approach for your site (Bootstrap, awsm.css, Tailwind, etc.) and put some effort in to make your content look presentable. In addition, your layout page must contain the following elements:
+You are expected to decide upon the styling approach for your site (Holiday, Bootstrap, awsm.css, Tailwind, etc.) and put some effort in to make your content look presentable. In addition, your layout page must contain the following elements:
 
 * **Site Navigation** – Links to all the pages in the web application.
 * **Scenario Title** – The number and name of the scenario (e.g.: G1 – Reservations by Group).
