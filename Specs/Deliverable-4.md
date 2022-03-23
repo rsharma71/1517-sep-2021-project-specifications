@@ -23,7 +23,7 @@ Depending on the scenario and the table, the Delete functionality may not be a p
 
 ----
 
-## Evaluation - *10%* – Scenario Number: ________
+## Evaluation - *20%* – Scenario Number: ________
 
 > ***NOTE:** Your code **must** compile. Solutions that do not compile will receive an automatic mark of zero (0).*
 >
