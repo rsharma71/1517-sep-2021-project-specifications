@@ -18,7 +18,7 @@ This project is divided into several deliverables, outlined below.  The due date
 
 * [**Deliverable 1:** - 5 %](./Deliverable-2.md) – Due **April 4, 2022**: Week 13
   * Initial solution setup with class libraries and web application including but not limited to: entities setup, database connection, appropriate references and navigation
-* [**Deliverable 2:** - 10 %](./Deliverable-3.md) – Due **April 8, 2022**: Week 14
+* [**Deliverable 2:** - 10 %](./Deliverable-3.md) – Due **April 8, 2022**: Week 13
   * Query page.
 * [**Deliverable 3:** - 20 %](./Deliverable-4.md) – Due **Aril 22, 2022**: Week 15
   * CRUD page.
