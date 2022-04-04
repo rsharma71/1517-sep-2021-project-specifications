@@ -13,7 +13,7 @@ Your solution must be a client-server solution consisting of multiple projects a
 The database supplied for this lab is an SQL Server database named "StarTED". The following is a sample of the connection string that may be used for the Presentation Layer.
 
 ```json
-  "StarTEDDb": "Data Source=.;Initial Catalog=StarTED;Integrated Security=True;"
+  "StarTEDDb": "Server=.;Database=StarTED;Trusted_Connection=true;MultipleActiveResultSets=true"
 ```
 
 In creating the entities for tables from the database, **only create for those tables related to your specific scenario** (deductions may be applied if you create additional entities). You are encouraged to generate the entities and the database context class using [reverse engineering](https://docs.microsoft.com/ef/core/managing-schemas/scaffolding?tabs=dotnet-core-cli#specifying-tables).
