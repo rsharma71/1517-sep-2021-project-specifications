@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\bin\Debug\net6.0\StarTEDLibruary.deps.json
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\bin\Debug\net6.0\StarTEDLibruary.dll
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\bin\Debug\net6.0\StarTEDLibruary.pdb
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.dll
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\refint\StarTEDLibruary.dll
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\StarTEDLibruary.pdb
+C:\Users\DELL\source\repos\StarTEDWebApp\StarTEDLibruary\obj\Debug\net6.0\ref\StarTEDLibruary.dll
