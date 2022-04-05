@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTEDWebApp", "StarTEDWebApp\StarTEDWebApp.csproj", "{9107AC30-5604-438D-A488-D110C1725155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarTEDWebApp", "StarTEDWebApp\StarTEDWebApp.csproj", "{9107AC30-5604-438D-A488-D110C1725155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTEDLibruary", "StarTEDLibruary\StarTEDLibruary.csproj", "{6D309E22-CDE1-4CB6-9A49-49F9E8BF4513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarTEDLibruary", "StarTEDLibruary\StarTEDLibruary.csproj", "{6D309E22-CDE1-4CB6-9A49-49F9E8BF4513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
